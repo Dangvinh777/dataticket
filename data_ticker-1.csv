@@ -1,0 +1,415 @@
+﻿;ticker;exchange;shortName;industryID;industryIDv2;industry;industryEn;establishedYear;noEmployees;noShareholders;foreignPercent;website;stockRating;deltaInWeek;deltaInMonth;deltaInYear;outstandingShare;issueShare;companyType
+0;CMV;HOSE;Thương nghiệp Cà Mau;250;5373;Bán lẻ;Retail;1980;666;583;0,002;http://www.tncm.com.vn;2,8;-0,022;-0,044;-0,015;18,2;18,2;CT
+3;COM;HOSE;Vật tư Xăng dầu;253;5379;Bán lẻ;Retail;2000;0;395;0,003;http://comeco.vn;2,6;-0,08;0,062;0,03;14,1;14,1;CT
+5;DGW;HOSE;Thế Giới Số;253;5379;Bán lẻ;Retail;2003;612;1228;0,259;https://digiworld.com.vn;2,9;-0,003;-0,297;-0,032;163,1;163,2;CT
+11;MWG;HOSE;Thế giới di động;253;5379;Bán lẻ;Retail;2004;40756;20628;0,49;http://www.mwg.vn;2,9;-0,035;-0,206;-0,041;1463,6;1463,9;CT
+13;PIT;HOSE;XNK PETROLIMEX;250;5373;Bán lẻ;Retail;2004;215;1607;0,008;http://www.pitco.com.vn;2,2;-0,058;0,183;-0,195;14,2;15,2;CT
+14;BTT;HOSE;TM - DV Bến Thành;250;5373;Bán lẻ;Retail;2004;175;473;0,049;http://www.benthanhtsc.com;2,6;0,016;-0,069;0,114;13,5;13,5;CT
+16;ABS;HOSE;DV Nông nghiệp Bình Thuận;253;5379;Bán lẻ;Retail;2004;54;7471;0;http://www.bitagco.com;2,5;-0,185;-0,336;-0,444;80;80;CT
+18;PET;HOSE;PETROSETCO;253;5379;Bán lẻ;Retail;2005;2739;6272;0,015;http://www.petrosetco.com.vn;2,5;-0,034;-0,401;-0,206;89,8;90,5;CT
+23;SBV;HOSE;Siam Brothers Việt Nam;253;5379;Bán lẻ;Retail;2008;531;481;0,148;http://www.siambrothersvn.com;3,1;-0,007;0,087;0,065;27,3;27,4;CT
+27;FRT;HOSE;Bán lẻ FPT;253;5379;Bán lẻ;Retail;2012;10078;8981;0,243;http://frt.vn;2,7;-0,071;-0,105;0,958;118,5;118,5;CT
+29;AST;HOSE;Dịch vụ Hàng không Taseco;253;5379;Bán lẻ;Retail;2015;453;505;0,445;http://www.tasecoairs.vn;2,5;-0,02;-0,059;0,233;45;45;CT
+32;PGI;HOSE;Bảo hiểm PJICO;292;8536;Bảo hiểm;Insurance;1995;1497;0;0,206;http://www.pjico.com.vn;2,7;-0,047;0,039;0,421;110,9;110,9;BH
+34;BIC;HOSE;Bảo hiểm BIDV;292;8536;Bảo hiểm;Insurance;1999;1170;1598;0,468;http://www.bic.vn;2,8;0,077;0,112;0,196;117,3;117,3;BH
+35;BMI;HOSE;Bảo hiểm Bảo Minh;292;8536;Bảo hiểm;Insurance;2004;1678;0;0,323;http://www.baominh.com.vn;2,5;0,007;-0,122;-0,257;109,6;109,6;BH
+39;BVH;HOSE;Tập đoàn Bảo Việt;294;8575;Bảo hiểm;Insurance;2007;0;8682;0,265;https://www.baoviet.com.vn;2,6;-0,03;0,031;0,096;742,3;742,3;BH
+40;MIG;HOSE;Bảo hiểm Quân đội;292;8536;Bảo hiểm;Insurance;2012;1957;0;0,089;https://www.mic.vn;2,5;0,02;0,035;-0,066;164,5;164,5;BH
+44;TIX;HOSE;TANIMEX;336;8633;Bất động sản;Real Estate;1981;113;436;0,005;http://www.tanimex.com.vn;3,1;-0,016;0,114;0,293;30;30;CT
+45;TDH;HOSE;Thủ Đức House;336;8633;Bất động sản;Real Estate;1990;310;0;0,023;http://www.thuduchouse.com;2,2;-0,044;-0,26;-0,451;112,7;112,7;CT
+46;NVL;HOSE;Đầu tư Địa ốc No Va (Novaland);336;8633;Bất động sản;Real Estate;1992;2248;11113;0,053;http://www.novaland.com.vn;2,7;-0,317;-0,532;-0,286;1949,8;1949,8;CT
+49;FDC;HOSE;FIDECO;336;8633;Bất động sản;Real Estate;1993;174;0;0;http://www.fidecovn.com;2,2;-0,07;0,033;0,539;38,6;38,6;CT
+50;QCG;HOSE;Quốc Cường Gia Lai;336;8633;Bất động sản;Real Estate;1994;112;0;0,006;http://www.quoccuonggialai.com.vn;2,4;0,122;-0,277;-0,311;275,1;275,1;CT
+53;SGR;HOSE;Địa ốc Sài Gòn;336;8633;Bất động sản;Real Estate;1999;222;2228;0;http://www.saigonres.com.vn;3;0,045;-0,151;-0,241;60;60;CT
+55;VPH;HOSE;Vạn Phát Hưng;336;8633;Bất động sản;Real Estate;1999;97;7365;0,008;http://www.vanphathung.com;2,9;0,045;-0,235;-0,24;95,4;95,4;CT
+56;ITC;HOSE;Đầu tư kinh doanh Nhà;336;8633;Bất động sản;Real Estate;2000;172;0;0,003;http://www.intresco.com.vn;3,1;0,044;-0,323;-0,313;95,9;96,4;CT
+57;CRE;HOSE;Bất động sản Thế Kỷ;336;8633;Bất động sản;Real Estate;2001;1533;397;0,012;http://www.cenland.vn;3;-0,016;-0,144;-0,083;463,7;201,6;CT
+59;HDC;HOSE;Phát triển Nhà BR-VT;336;8633;Bất động sản;Real Estate;2001;105;0;0,009;http://www.hodeco.vn;2,8;0,056;-0,021;-0,277;108,1;108,1;CT
+61;LGL;HOSE;Long Giang Land;336;8633;Bất động sản;Real Estate;2001;46;1394;0,018;http://www.longgiangland.com.vn;2,4;0,011;-0,338;-0,456;51,5;51,5;CT
+62;VIC;HOSE;VinGroup;336;8633;Bất động sản;Real Estate;2002;65325;32650;0,121;http://www.vingroup.net;2,3;0,193;0,25;0,024;3813,9;3813,9;CT
+64;ITA;HOSE;Đầu tư CN Tân Tạo;336;8633;Bất động sản;Real Estate;2002;593;65023;0,016;http://www.itaexpress.com.vn;2,8;0,052;-0,181;-0,38;938,3;938,5;CT
+65;TDC;HOSE;Becamex TDC;339;8637;Bất động sản;Real Estate;2002;364;2877;0,017;http://www.becamextdc.com.vn;2,8;-0,023;-0,457;-0,361;100;100;CT
+66;KBC;HOSE;TCT Đô thị Kinh Bắc;336;8633;Bất động sản;Real Estate;2002;198;26083;0,17;http://www.kinhbaccity.vn/news/vi;2,8;0,108;-0,196;-0,238;767,6;767,6;CT
+68;TIP;HOSE;PT KCN Tín Nghĩa;336;8633;Bất động sản;Real Estate;2002;58;1046;0,162;http://www.tinnghiaip.com.vn;2,9;0,096;-0,117;-0,313;65;65;CT
+70;SJS;HOSE;SUDICO;336;8633;Bất động sản;Real Estate;2003;374;3111;0,009;https://sudicosd.com;2,3;-0,266;-0,252;-0,093;113,9;114,9;CT
+71;SZL;HOSE;Sonadezi Long Thành;336;8633;Bất động sản;Real Estate;2003;111;863;0,172;http://www.szl.com.vn;3,1;0,013;0,018;0,112;18,2;20;CT
+72;HPX;HOSE;Đầu tư Hải Phát;336;8633;Bất động sản;Real Estate;2003;100;1727;0,119;http://www.haiphat.com.vn;2,4;-0,318;-0,381;-0,252;304,2;304,2;CT
+74;DTA;HOSE;BĐS Đệ Tam;336;8633;Bất động sản;Real Estate;2003;39;141;0,001;http://www.detamland.com;2,5;0,008;-0,171;-0,447;18,1;18,1;CT
+76;PDR;HOSE;BĐS Phát Đạt;336;8633;Bất động sản;Real Estate;2004;420;1373;0,03;https://www.phatdat.com.vn;3;-0,315;-0,552;-0,379;671,6;671,6;CT
+77;SCR;HOSE;Sacomreal;336;8633;Bất động sản;Real Estate;2004;168;41608;0,011;http://www.sacomreal.com.vn;2,4;0,041;-0,233;-0,374;395,7;366,4;CT
+80;NTL;HOSE;Đô thị Từ Liêm;336;8633;Bất động sản;Real Estate;2004;103;8476;0,122;http://www.lideco.vn;3,1;0,066;-0,17;-0,208;61;61;CT
+84;NLG;HOSE;BĐS Nam Long;336;8633;Bất động sản;Real Estate;2005;1661;30248;0,416;http://www.namlongvn.com;2,7;0,095;-0,107;-0,278;384,1;384,1;CT
+85;HDG;HOSE;Tập đoàn Hà Đô;336;8633;Bất động sản;Real Estate;2005;1583;1695;0,185;http://www.hado.com.vn;2,9;0,015;-0,172;-0,047;244,6;244,6;CT
+89;NBB;HOSE;577 CORP;336;8633;Bất động sản;Real Estate;2005;141;9658;0,014;http://nbb.com.vn;2,3;-0,213;-0,182;-0,384;100,2;100,5;CT
+92;VRC;HOSE;Bất động sản và Đầu tư VRC;336;8633;Bất động sản;Real Estate;2005;18;3064;0,005;http://www.vrc.com.vn;2;-0,009;-0,137;-0,361;50;50;CT
+93;BCM;HOSE;Becamex IDC;336;8633;Bất động sản;Real Estate;2006;2398;1347;0,03;http://www.becamex.com.vn;2,4;0,031;-0,005;0,669;1035;1035;CT
+95;NVT;HOSE;Ninh Vân Bay;336;8633;Bất động sản;Real Estate;2006;445;1147;0,001;http://www.ninhvanbay.vn;2,4;0,027;-0,245;-0,121;90,5;90,5;CT
+97;LHG;HOSE;KCN Long Hậu;336;8633;Bất động sản;Real Estate;2006;135;0;0,125;http://www.longhau.com.vn;3,1;0,077;-0,102;-0,29;50;50;CT
+99;D2D;HOSE;Phát triển Đô thị số 2;336;8633;Bất động sản;Real Estate;2006;86;3550;0,037;http://www.d2d.com.vn;2,9;-0,088;-0,25;-0,331;30,3;30,3;CT
+100;DRH;HOSE;DRH Holdings;336;8633;Bất động sản;Real Estate;2006;62;0;0,012;http://www.drh.vn;2;-0,088;-0,363;-0,493;123,7;124,4;CT
+101;PTL;HOSE;Victory Capital;336;8633;Bất động sản;Real Estate;2006;44;2188;0,001;http://victorycapital.com.vn/;2,7;-0,03;-0,258;-0,328;98,9;100;CT
+106;DXG;HOSE;Địa ốc Đất Xanh;336;8633;Bất động sản;Real Estate;2007;418;39626;0,273;http://www.datxanh.com.vn;2,9;0,039;-0,264;-0,267;610;609,3;CT
+108;KDH;HOSE;Nhà Khang Điền;336;8633;Bất động sản;Real Estate;2007;292;10737;0,346;http://www.khangdien.com.vn;2,6;0,079;-0,059;-0,153;716,8;716,8;CT
+109;AMD;HOSE;FLC Stone;336;8633;Bất động sản;Real Estate;2007;273;20584;0,012;https://flcstone.vn;2;0,045;-0,257;-0,497;163,5;163,5;CT
+110;IJC;HOSE;Becamex IJC;336;8633;Bất động sản;Real Estate;2007;266;6982;0,065;https://becamexijc.com;3;0,084;-0,18;-0,334;217,1;217,1;CT
+111;SZC;HOSE;Sonadezi Châu Đức;336;8633;Bất động sản;Real Estate;2007;244;6036;0,027;https://sonadezichauduc.com.vn;2,5;0,058;-0,198;-0,207;100;100;CT
+114;LEC;HOSE;BĐS Điện lực Miền Trung;336;8633;Bất động sản;Real Estate;2007;123;26286;0;http://www.lec.com.vn;2,3;-0,038;-0,23;-0,191;26,1;26,1;CT
+115;HQC;HOSE;Địa ốc Hoàng Quân;336;8633;Bất động sản;Real Estate;2007;104;43657;0,014;http://www.hoangquan.com.vn;2,1;0,017;-0,28;-0,357;476,6;476,6;CT
+117;TCH;HOSE;ĐT DV Tài chính Hoàng Huy;336;8633;Bất động sản;Real Estate;2007;94;309;0,025;http://www.hoanghuy.vn;2,9;0,044;-0,2;-0,333;668,2;668,2;CT
+118;HAR;HOSE;BĐS An Dương Thảo Điền;336;8633;Bất động sản;Real Estate;2007;74;9423;0,002;http://www.adtdgroup.com;2,6;0,028;-0,102;-0,348;95,7;101,4;CT
+119;CCL;HOSE;Đầu tư và Phát triển Đô thị Dầu khí Cửu Long;336;8633;Bất động sản;Real Estate;2007;73;5598;0,009;http://www.pvcl.com.vn;3,2;0,036;-0,122;-0,353;53,2;53,2;CT
+130;FLC;HOSE;Tập đoàn FLC;336;8633;Bất động sản;Real Estate;2008;10000;32571;0,022;http://www.flc.vn;2,4;-0,016;0,078;-0,412;710;710;CT
+131;VHM;HOSE;Vinhomes;336;8633;Bất động sản;Real Estate;2008;7701;43710;0,233;https://vinhomes.vn/vi;3;0,072;0,048;-0,065;4354,4;4354,4;CT
+132;DIG;HOSE;DIC Corp;336;8633;Bất động sản;Real Estate;2008;866;48279;0,043;http://www.dic.vn;3;0,006;-0,436;-0,441;609,9;609,9;CT
+133;VPI;HOSE;Đầu tư Văn Phú - Invest;336;8633;Bất động sản;Real Estate;2008;157;348;0,009;http://www.vanphu.vn;2,6;-0,017;0,027;0,58;242;242;CT
+134;KOS;HOSE;Công ty KOSY;336;8633;Bất động sản;Real Estate;2008;67;0;0;http://www.kosy.vn;2,3;-0,01;0,041;0,49;216,5;216,5;CT
+141;KHG;HOSE;Tập đoàn Khải Hoàn Land;336;8633;Bất động sản;Real Estate;2009;144;568;0,008;https://khaihoanland.vn;2,7;-0,043;-0,276;-0,327;449,4;443,2;CT
+142;TLD;HOSE;ĐT XD và PT Đô thị Thăng Long;336;8633;Bất động sản;Real Estate;2009;125;5758;0,006;http://www.thanglongdeco.com;3;0,044;-0,319;-0,376;74,8;74,8;CT
+145;HTN;HOSE;Hưng Thịnh Incons;336;8633;Bất động sản;Real Estate;2010;686;2858;0,008;http://www.hungthinhincons.com.vn;2,4;0,044;-0,124;-0,144;89,1;89,1;CT
+146;LDG;HOSE;Đầu tư LDG;339;8637;Bất động sản;Real Estate;2010;202;309;0,009;https://www.ldginvestment.vn;2,5;0,044;-0,3;-0,397;239,4;240,2;CT
+150;DXS;HOSE;Dịch vụ BĐS Đất Xanh;339;8637;Bất động sản;Real Estate;2011;7191;1653;0,211;https://datxanhservices.vn;2,7;-0,014;-0,457;-0,453;453,1;453,1;CT
+152;TEG;HOSE;TECGROUP;336;8633;Bất động sản;Real Estate;2011;99;506;0,001;https://tecgroup.com.vn/vn;3;-0,018;-0,119;-0,24;65,6;65,6;CT
+153;VRE;HOSE;Vincom Retail;336;8633;Bất động sản;Real Estate;2012;1981;34058;0,32;http://www.vincom.com.vn;2,7;0,075;0,187;0,25;2272,3;2328,8;CT
+154;AGG;HOSE;Bất động sản An Gia;336;8633;Bất động sản;Real Estate;2012;207;4895;0,049;https://angia.com.vn/;2,8;0,041;0,072;0,287;111,7;111,7;CT
+157;CKG;HOSE;Xây dựng Kiên Giang;339;8637;Bất động sản;Real Estate;2013;270;10601;0;http://www.cickg.com;2,8;-0,073;0,089;0,167;95,3;86,6;CT
+161;TN1;HOSE;TNS Holdings;336;8633;Bất động sản;Real Estate;2014;2579;660;0,001;http://www.tnsholdings.vn;2,8;-0,098;-0,1;-0,127;43,2;43,2;CT
+163;FIR;HOSE;Địa ốc First Real;336;8633;Bất động sản;Real Estate;2014;36;415;0,01;https://fir.vn/;3,2;0,037;0,157;1,031;44,6;44,6;CT
+173;ST8;HOSE;Thiết bị Siêu Thanh;312;9574;Công nghệ Thông tin;Technology;1994;563;882;0,49;http://www.st8.vn;3,4;0,132;-0,18;0,355;25,7;25,7;CT
+174;ITD;HOSE;Công nghệ Tiên Phong;311;9572;Công nghệ Thông tin;Technology;1994;301;0;0,016;http://www.itd.com.vn;3;0,089;0,342;-0,068;21,3;21,3;CT
+177;SAM;HOSE;SAM Holdings;314;9578;Công nghệ Thông tin;Technology;1998;753;23270;0,007;http://www.samholdings.com.vn;2,5;-0,187;-0,314;-0,393;380;365,4;CT
+181;ICT;HOSE;Viễn thông - Tin học Bưu điện;310;9537;Công nghệ Thông tin;Technology;2001;484;639;0,005;http://www.ctin.vn;2,5;-0,064;-0,033;0,045;32,2;32,2;CT
+183;FPT;HOSE;FPT Corp;310;9537;Công nghệ Thông tin;Technology;2002;37882;48598;0,49;https://www.fpt.com.vn/vi;2,7;-0,033;0,047;0,234;1097;1097;CT
+184;SGT;HOSE;Sài Gòn Telecom;309;9535;Công nghệ Thông tin;Technology;2002;262;1645;0,111;http://www.saigontel.vn;2,2;-0,016;-0,231;-0,217;148;74;CT
+185;ELC;HOSE;ELCOM;314;9578;Công nghệ Thông tin;Technology;2003;223;208;0,043;http://www.elcom.com.vn;2,5;0,054;-0,225;-0,329;58,8;50,9;CT
+197;CMG;HOSE;Tập đoàn Công nghệ CMC;308;9533;Công nghệ Thông tin;Technology;2009;2365;1130;0,421;http://www.cmc.com.vn;2,5;0,006;-0,028;0,173;150;150;CT
+204;VNS;HOSE;Ánh Dương Việt Nam;262;5759;Du lịch và Giải trí;Travel & Leisure;1995;3813;1124;0,196;http://www.vinasuncorp.com;2,7;0,074;-0,14;0,671;67,9;67,9;CT
+209;TCT;HOSE;Cáp treo Tây Ninh;262;5759;Du lịch và Giải trí;Travel & Leisure;2001;34;906;0,203;http://www.catour.com.vn;3,1;0,033;-0,062;0,261;12,8;12,8;CT
+212;DSN;HOSE;Công viên nước Đầm Sen;260;5755;Du lịch và Giải trí;Travel & Leisure;2003;153;339;0,22;http://www.damsenwaterpark.com.vn;3,2;-0,065;0,077;0,438;12,1;12,1;CT
+213;DAH;HOSE;Tập đoàn Khách sạn Đông Á;259;5753;Du lịch và Giải trí;Travel & Leisure;2003;12;327;0,001;https://www.mayplazahotel.com;2,7;-0,046;-0,294;-0,351;84,2;84,2;CT
+221;VNG;HOSE;DL Thành Thành Công;259;5753;Du lịch và Giải trí;Travel & Leisure;2006;947;2407;0,005;https://ttchospitality.vn;1,9;0,171;-0,003;-0,117;97,3;97,3;CT
+224;HOT;HOSE;Du lịch - DV Hội An;262;5759;Du lịch và Giải trí;Travel & Leisure;2006;122;216;0,001;http://www.hoiantourist.com;2,5;-0,084;0,06;0,102;8;8;CT
+227;VJC;HOSE;Vietjet Air;257;5751;Du lịch và Giải trí;Travel & Leisure;2007;5842;5333;0,165;http://www.vietjetair.com;2,1;-0,007;0,016;0,142;541,6;541,6;CT
+228;SKG;HOSE;Tàu Cao tốc Superdong;262;5759;Du lịch và Giải trí;Travel & Leisure;2007;377;2893;0,367;http://www.superdong.com.vn;2,5;-0,092;-0,13;0,051;63,3;63,3;CT
+235;SCS;HOSE;DV Hàng hóa Sài Gòn;257;5751;Du lịch và Giải trí;Travel & Leisure;2008;501;1847;0,287;http://www.scsc.vn;2,8;-0,013;0,06;0,259;93,9;93,9;CT
+241;HVN;HOSE;Vietnam Airlines;257;5751;Du lịch và Giải trí;Travel & Leisure;2010;18250;41554;0,059;https://www.vietnamairlines.com/vn/vi/home;2,1;-0,076;-0,11;-0,296;2214,4;2214,4;CT
+252;PLX;HOSE;Petrolimex;144;533;Dầu khí;Oil & Gas;1995;25801;15165;0,173;https://www.petrolimex.com.vn;2,2;-0,093;-0,126;-0,235;1270,6;1293,9;CT
+256;PVD;HOSE;Khoan Dầu khí PVDrilling;316;573;Dầu khí;Oil & Gas;2006;1958;0;0,166;http://www.pvdrilling.com.vn;2,6;-0,135;-0,319;-0,123;555,9;556,3;CT
+265;SSI;HOSE;Chứng khoán SSI;300;8777;Dịch vụ tài chính;Financial Services;2000;1026;21151;0,369;http://www.ssi.com.vn;2,8;0,137;-0,019;-0,264;1489,1;1491,1;CK
+267;BSI;HOSE;Chứng khoán BIDV;300;8777;Dịch vụ tài chính;Financial Services;2000;223;6148;0,373;http://www.bsc.com.vn;3,1;0,01;-0,294;-0,356;187,3;187,8;CK
+268;CTS;HOSE;Chứng khoán Vietinbank;300;8777;Dịch vụ tài chính;Financial Services;2000;175;4031;0,019;http://www.cts.vn;2,7;0,02;-0,254;-0,363;148,7;148,7;CK
+269;AGR;HOSE;Agriseco;300;8777;Dịch vụ tài chính;Financial Services;2000;137;3968;0,003;https://www.agriseco.com.vn/;2,5;0,023;-0,108;-0,375;212;212;CK
+270;HCM;HOSE;Chứng khoán TP.HCM;300;8777;Dịch vụ tài chính;Financial Services;2003;637;29835;0,407;http://www.hsc.com.vn;2,6;0,033;-0,037;-0,244;457,2;458,1;CK
+271;VND;HOSE;Chứng khoán VNDIRECT;300;8777;Dịch vụ tài chính;Financial Services;2006;931;27772;0,177;http://www.vndirect.com.vn;2,9;0,117;-0,156;-0,281;1217,8;1217,8;CK
+273;VDS;HOSE;Chứng khoán Rồng Việt;300;8777;Dịch vụ tài chính;Financial Services;2006;330;6083;0,016;http://www.vdsc.com.vn;2,6;-0,002;-0,12;-0,371;210;210;CK
+277;TVS;HOSE;Chứng khoán Thiên Việt;300;8777;Dịch vụ tài chính;Financial Services;2006;67;978;0,294;http://www.tvs.vn;2,6;-0,06;-0,083;-0,148;107,1;107,1;CK
+278;TVB;HOSE;Chứng khoán Trí Việt;300;8777;Dịch vụ tài chính;Financial Services;2006;55;365;0,025;http://www.tvsc.vn;3,2;0,039;-0,207;-0,517;112,1;112,1;CK
+282;ORS;HOSE;Chứng khoán Tiên Phong;300;8777;Dịch vụ tài chính;Financial Services;2006;18;18317;0,014;http://www.tpbs.com.vn;2,6;0,01;-0,019;-0,401;200;200;CK
+283;FIT;HOSE;Tập đoàn F.I.T;299;8775;Dịch vụ tài chính;Financial Services;2007;2122;8731;0;http://www.fitgroup.com.vn;2,4;-0,044;-0,212;-0,417;339,9;339,9;CT
+284;OGC;HOSE;Tập đoàn Đại Dương;299;8775;Dịch vụ tài chính;Financial Services;2007;1662;10113;0,002;http://www.oceangroup.vn;2,4;-0,132;-0,313;0,139;300;300;CT
+285;FTS;HOSE;Chứng khoán FPT;300;8777;Dịch vụ tài chính;Financial Services;2007;453;2199;0,264;http://www.fpts.com.vn;3,2;0,044;-0,396;-0,366;195,1;195,1;CK
+287;VCI;HOSE;Chứng khoán Bản Việt;300;8777;Dịch vụ tài chính;Financial Services;2007;189;13657;0,181;http://www.vcsc.com.vn;2,8;-0,065;-0,24;-0,304;435,5;435,5;CK
+289;VIX;HOSE;Chứng khoán VIX;300;8777;Dịch vụ tài chính;Financial Services;2007;50;1703;0,045;https://www.vixs.vn;3,2;0,045;-0,142;-0,346;582,1;582,1;CK
+291;APG;HOSE;Chứng khoán APG;300;8777;Dịch vụ tài chính;Financial Services;2007;31;387;0,017;http://www.apsi.vn;3,1;0,062;-0,308;-0,47;146,3;146,3;CK
+293;EVF;HOSE;Tài chính Điện lực;298;8773;Dịch vụ tài chính;Financial Services;2008;487;57405;0,001;http://www.evnfc.vn;2,7;-0,094;-0,153;-0,243;351,1;351,1;NH
+300;FUCVREIT;HOSE;Quỹ đầu tư BĐS Techcom Việt Nam;302;8985;Dịch vụ tài chính;Financial Services;2008;0;0;0,02;;;-0,075;-0,091;-0,186;5;5;QU
+301;BCG;HOSE;Bamboo Capital;299;8775;Dịch vụ tài chính;Financial Services;2011;42;27151;0,03;http://www.bamboocap.com.vn;2,8;-0,051;-0,368;-0,365;533,5;533,5;CT
+305;IBC;HOSE;Đầu tư APAX Holdings;299;8775;Dịch vụ tài chính;Financial Services;2012;10;590;0,001;http://www.apaxholdings.com.vn;2,5;-0,181;-0,114;0,019;83,2;83,2;CT
+306;FUESSV50;HOSE;Quỹ ETF SSIAM VNX50;302;8985;Dịch vụ tài chính;Financial Services;2014;0;0;0,562;http://www.ssi.com.vn/AssetManagement.aspx;;-0,073;-0,202;-0,15;16,1;16,1;QU
+307;E1VFVN30;HOSE;Quỹ ETF DCVFMVN30;302;8985;Dịch vụ tài chính;Financial Services;2014;0;0;0,924;https://dragoncapital.com.vn;1,6;0,08;0,016;-0,004;414,5;414,5;QU
+309;FUEVN100;HOSE;Quỹ ETF VINACAPITAL VN100;302;8985;Dịch vụ tài chính;Financial Services;2019;0;0;0,237;http://www.vinacapital.com;;-0,025;-0,03;-0,046;17;17;QU
+310;FUESSVFL;HOSE;Quỹ ETF SSIAM VNFIN LEAD;302;8985;Dịch vụ tài chính;Financial Services;2019;0;0;0,964;http://www.ssi.eom.vn/ssiam/san-pham-va-dich-vu-ssiam;1,4;-0,03;0,004;-0,075;217;217;QU
+311;FUEIP100;HOSE;ETF IPAAM VN100;302;8985;Dịch vụ tài chính;Financial Services;2019;0;0;0,008;https://ipaam.com.vn/vi/home;;-0,02;-0,039;-0,053;5,7;5,7;QU
+312;FUCTVGF3;HOSE;Quỹ Đầu tư Tăng trưởng Thiên Việt 3;302;8985;Dịch vụ tài chính;Financial Services;2019;0;0;0;https://www.tvam.vn/vi;;-0,016;0,078;0,477;19,9;19,9;QU
+313;FUEVFVND;HOSE;Quỹ ETF DCVFMVN DIAMOND;302;8985;Dịch vụ tài chính;Financial Services;2020;0;0;0,98;https://dragoncapital.com.vn;2;0,006;0,008;0,09;705,1;705,1;QU
+314;FUEMAV30;HOSE;Quỹ ETF MAFM VN30;302;8985;Dịch vụ tài chính;Financial Services;2020;0;0;0,845;http://www.fundmanagement-miraeasset.com.vn;1,5;0,012;0,004;-0,02;35,6;35,6;QU
+315;FUESSV30;HOSE;Quỹ ETF SSIAM VN30;302;8985;Dịch vụ tài chính;Financial Services;2020;0;0;0,376;http://www.ssi.com.vn/ssiam/thong-tin-chung-ssiam-vn30;;0,026;-0,015;-0,037;5,4;5,4;QU
+316;FUEKIV30;HOSE;KIM GROWTH VN30 ETF;302;8985;Dịch vụ tài chính;Financial Services;2021;0;0;0,837;https://koreainvestment.com.vn/en/home;;0;0,026;;51,5;51,5;QU
+317;FUEDCMID;HOSE;Quỹ ETF DCVFMVNMIDCAP;302;8985;Dịch vụ tài chính;Financial Services;2022;0;0;0,877;https://dragoncapital.com.vn;;-0,021;-0,076;;9,4;9,4;QU
+318;FUCTVGF4;HOSE;Quỹ Đầu tư Tăng trưởng Thiên Việt 4;302;8985;Dịch vụ tài chính;Financial Services;2022;0;0;0;https://www.tvam.vn/vi;;-0,147;-0,275;;20,1;20,1;QU
+321;EMC;HOSE;Cơ điện Thủ Đức;187;2737;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;1976;128;723;0,002;http://www.codientd.com;2,6;-0,115;-0,32;-0,169;15,3;15,3;CT
+327;TMS;HOSE;Transimex;193;2777;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;1983;2012;1080;0,437;http://www.transimex.com.vn;3;-0,051;0,001;0,115;105,9;105,9;CT
+331;TV2;HOSE;Tư vấn XD Điện 2;195;2791;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;1985;753;986;0,148;http://www.pecc2.com;3,1;-0,084;-0,109;-0,208;67,5;45;CT
+335;TYA;HOSE;Dây và Cáp điện Taya;186;2733;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;1992;259;0;0,415;http://www.taya.com.vn;2,7;0,024;-0,092;-0,028;30,7;6,1;CT
+336;GMD;HOSE;Gemadept;193;2777;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;1993;1481;18032;0,482;http://www.gemadept.com.vn;2,9;-0,061;-0,037;0,143;301,4;301,4;CT
+345;SFI;HOSE;Vận tải SAFI;191;2773;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;1998;384;1121;0,091;http://www.safi.com.vn;3,5;0,029;0,015;0,014;21;22,8;CT
+346;MCP;HOSE;In và Bao bì Mỹ Châu;184;2723;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;1998;315;991;0,002;http://www.mychau.com.vn;3,1;-0,146;-0,108;-0,207;15,1;15,1;CT
+347;MHC;HOSE;CTCP MHC;194;2779;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;1998;34;9504;0,022;https://mhc.vn;2,3;-0,021;-0,051;-0,395;41,4;41,4;CT
+348;SRF;HOSE;SEAREFICO;189;2757;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;1999;588;246;0,468;http://www.searefico.com;2,6;-0,054;-0,01;0,008;33,8;35,6;CT
+350;VNL;HOSE;Logistics Vinalink;194;2779;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;1999;332;1317;0,094;http://www.vinalinklogistics.com;3,6;-0,043;-0,011;0,042;9,4;9,4;CT
+351;PJT;HOSE;Vận tải thủy PETROLIMEX;191;2773;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;1999;287;3139;0,019;https://pjtaco.petrolimex.com.vn;2,7;0,002;-0,099;-0,029;23;23;CT
+358;HTV;HOSE;Logistics Vicem;191;2773;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2000;235;0;0,114;http://www.vantaihatien.com.vn;2,9;-0,019;-0,081;0,028;13,1;13,1;CT
+378;SVI;HOSE;Bao bì Biên Hòa;184;2723;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2003;773;0;0,949;http://www.sovi.com.vn;3,2;0,074;0,225;0,329;12,8;12,8;CT
+379;DVP;HOSE;ĐT và PT Cảng Đình Vũ;193;2777;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2003;431;0;0,123;http://www.dinhvuport.com.vn;3,1;-0,092;-0,045;0,068;40;40;CT
+385;PAC;HOSE;Pin Ắc quy Miền Nam;186;2733;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2004;1243;1404;0,128;http://www.pinaco.com.vn;2,7;-0,035;0,025;0,128;46,5;46,5;CT
+404;VTB;HOSE;Viettronics Tân Bình;186;2733;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2004;153;0;0,046;http://www.vtb.com.vn;3,1;0,001;0,087;0,355;10,8;12;CT
+411;REE;HOSE;Cơ Điện Lạnh REE;189;2757;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2005;1876;17076;0,49;http://www.reecorp.com;3,2;-0,018;-0,057;0,461;355,4;356,4;CT
+414;NCT;HOSE;DV Hàng hóa Nội Bài;193;2777;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2005;764;2237;0,123;http://www.noibaicargo.com.vn;2,9;0;0,07;0,42;26,2;26,2;CT
+415;VTO;HOSE;VITACO;191;2773;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2005;558;5038;0,012;http://www.vitaco.petrolimex.com.vn;2,9;-0,029;-0,05;-0,158;79,9;79,9;CT
+416;VIP;HOSE;Vận tải Xăng dầu VIPCO;191;2773;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2005;491;8827;0,023;http://www.vipco.com.vn;2,6;0,042;0,075;-0,125;68,5;68,5;CT
+427;L10;HOSE;LILAMA 10;189;2757;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2006;1599;1498;0,012;http://www.lilama10.com.vn;3;-0,016;0,078;0,259;9,8;9,9;CT
+429;STG;HOSE;Kho Vận Miền Nam;193;2777;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2006;1149;904;0,001;http://www.sotrans.com.vn;3,1;-0,087;0,182;0,545;98,3;98,3;CT
+431;PVT;HOSE;Vận tải Dầu khí PVTrans;191;2773;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2006;716;0;0,167;http://www.pvtrans.com;3;-0,069;-0,103;-0,044;323,7;323,7;CT
+440;PDN;HOSE;Cảng Đồng Nai;193;2777;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2006;269;25;0,004;http://www.dongnai-port.com;3,5;0,017;0,224;0,787;18,5;18,5;CT
+452;CAV;HOSE;Dây cáp điện Việt Nam;186;2733;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2007;1170;1369;0,002;http://www.cadivi-vn.com;3,1;-0,016;0,013;0,233;57,5;57,6;CT
+453;VSC;HOSE;VICONSHIP;193;2777;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2007;1103;0;0,047;http://www.viconship.com;3;-0,046;0,009;0,193;121,3;121,3;CT
+454;TDP;HOSE;Công ty Thuận Đức;184;2723;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2007;872;467;0;http://www.thuanducjsc.com.vn;2,3;-0,016;0,057;0,384;60,2;60,2;CT
+456;THI;HOSE;Thiết bị điện;187;2737;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2007;755;541;0,001;http://www.thibidi.com;2,3;-0,09;-0,122;0,059;48,8;48,8;CT
+463;TCL;HOSE;Tan Cang Logistics;194;2779;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2007;404;4368;0,047;http://www.tancanglogistics.com.vn;2,9;-0,064;-0,077;0,038;30,2;30,2;CT
+471;GSP;HOSE;Gas Shipping;191;2773;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2007;218;350;0,011;http://www.gasshipping.com.vn;2,7;-0,074;-0,138;-0,231;55,8;55,8;CT
+481;CLL;HOSE;Cảng Cát Lái;193;2777;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2007;15;775;0,07;http://catlaiport.com.vn;2,9;-0,02;0,05;0,083;34;34;CT
+490;VOS;HOSE;Vận tải Biển Việt Nam;191;2773;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2008;832;0;0,012;http://www.vosco.com.vn;3;-0,034;-0,31;-0,347;140;140;CT
+496;ILB;HOSE;ICD Tân Cảng Long Bình;193;2777;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2008;333;1606;0,015;http://www.icdlongbinh.com;2,9;-0,127;-0,22;-0,015;24,5;24,5;CT
+501;TCO;HOSE;Vận tải Duyên Hải;194;2779;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2008;11;1986;0,024;http://www.tasaduyenhai.com;2,8;0,014;0,141;-0,274;18,7;18,7;CT
+508;HAH;HOSE;Vận tải và Xếp dỡ Hải An;193;2777;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2009;470;7839;0,132;http://www.haiants.vn;3,5;-0,071;-0,298;-0,167;70,3;68,3;CT
+551;ASG;HOSE;Tập đoàn ASG;193;2777;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2010;0;0;0,009;http://www.asg.net.vn;2,6;-0,046;0,026;0,161;75,7;75,7;CT
+558;GEX;HOSE;Tập đoàn Gelex;187;2737;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2012;10665;3914;0,097;https://gelex.vn;2,7;0,128;-0,054;-0,337;851,5;851,5;CT
+560;ABR;HOSE;Đầu tư Nhãn Hiệu Việt;195;2791;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2012;10;513;0,488;http://www.vbinvest.com.vn;3,2;-0,016;0,05;-0,178;20;20;CT
+576;SGN;HOSE;Phục vụ mặt đất Sài Gòn;193;2777;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2015;2048;1063;0,025;http://www.sags.vn;2,5;-0,093;-0,115;0,131;33,5;33,6;CT
+585;APH;HOSE;Tập đoàn An Phát Holdings;184;2723;Hàng & Dịch vụ Công nghiệp;Industrial Goods & Services;2017;0;0;0,312;http://www.anphatholdings.com;2,3;0,044;-0,182;-0,464;243,9;243,9;CT
+594;AAT;HOSE;Tập đoàn Tiên Sơn Thanh Hóa;226;3763;Hàng cá nhân & Gia dụng;Personal & Household Goods;1995;1200;2431;0,003;http://tiensonaus.com;2,9;-0,171;-0,286;-0,413;63,8;63,8;CT
+598;GIL;HOSE;XNK Bình Thạnh;226;3763;Hàng cá nhân & Gia dụng;Personal & Household Goods;2000;1992;0;0,036;http://www.gilimex.com;3,2;0,175;-0,243;-0,33;69;69;CT
+599;GDT;HOSE;Gỗ Đức Thành;221;3726;Hàng cá nhân & Gia dụng;Personal & Household Goods;2000;1223;2148;0,239;http://www.goducthanh.com;2,6;-0,061;-0,058;-0,09;19,4;19,7;CT
+604;GMC;HOSE;Garmex Sài Gòn;226;3763;Hàng cá nhân & Gia dụng;Personal & Household Goods;2003;4118;0;0,083;http://www.garmex.vn;3;0,07;-0,17;-0,208;33;33;CT
+605;LIX;HOSE;Bột giặt LIX;228;3767;Hàng cá nhân & Gia dụng;Personal & Household Goods;2003;1098;174;0,082;http://www.lixco.com;3;-0,035;0,081;0,177;32,4;32,4;CT
+607;CLC;HOSE;Thuốc lá Cát Lợi;229;3785;Hàng cá nhân & Gia dụng;Personal & Household Goods;2003;313;1000;0,021;http://www.catloi.com.vn;3;-0,07;0,007;0,21;26,2;26,2;CT
+612;PNJ;HOSE;Vàng Phú Nhuận;228;3767;Hàng cá nhân & Gia dụng;Personal & Household Goods;2004;6018;12192;0,49;http://www.pnj.com.vn;2,9;0,014;0,039;0,308;246;246,2;CT
+614;RAL;HOSE;Bóng đèn Phích nước Rạng Đông;221;3726;Hàng cá nhân & Gia dụng;Personal & Household Goods;2004;2075;0;0,03;http://www.rangdongvn.com;3;-0,084;-0,058;-0,148;22,9;22,9;CT
+615;NHT;HOSE;Sản xuất và Thương mại Nam Hoa;225;3747;Hàng cá nhân & Gia dụng;Personal & Household Goods;2004;2057;413;0,049;http://www.namhoatoys.vn;2,8;-0,067;0,079;-0,103;24;18,5;CT
+619;TLG;HOSE;Tập đoàn Thiên Long;220;3724;Hàng cá nhân & Gia dụng;Personal & Household Goods;2005;3502;1975;0,198;http://www.thienlonggroup.com;3,2;-0,013;-0,177;0,36;77,8;77,8;CT
+621;DQC;HOSE;Bóng đèn Điện Quang;221;3726;Hàng cá nhân & Gia dụng;Personal & Household Goods;2005;1085;361;0,009;https://dienquang.com/;2,4;-0,012;-0,087;-0,152;27,6;34,4;CT
+627;TCM;HOSE;Dệt may Thành Công;226;3763;Hàng cá nhân & Gia dụng;Personal & Household Goods;2006;7520;7046;0,465;http://www.thanhcong.com.vn;2,5;0,038;0,101;-0,015;81,9;82;CT
+629;ADS;HOSE;Dệt sợi DAMSAN;226;3763;Hàng cá nhân & Gia dụng;Personal & Household Goods;2006;679;2933;0,01;http://damsanjsc.vn/en/;2,6;-0,136;-0,168;-0,334;43,8;43,8;CT
+637;EVE;HOSE;Everpia;226;3763;Hàng cá nhân & Gia dụng;Personal & Household Goods;2007;1360;52;0,718;http://www.everpia.vn;3;-0,027;0,052;0,075;42;42;CT
+638;TVT;HOSE;May Việt Thắng;226;3763;Hàng cá nhân & Gia dụng;Personal & Household Goods;2007;942;738;0,04;https://vietthang.com.vn;2,9;-0,003;-0,053;0,128;21;21;CT
+640;KMR;HOSE;MIRAE;226;3763;Hàng cá nhân & Gia dụng;Personal & Household Goods;2007;306;0;0,625;http://www.miraejsc.com;2,5;-0,023;-0,093;-0,421;56,9;56,9;CT
+655;STK;HOSE;Sợi Thế Kỷ;226;3763;Hàng cá nhân & Gia dụng;Personal & Household Goods;2012;998;1048;0,126;http://www.theky.vn;2,9;-0,012;-0,134;-0,175;81,8;84,4;CT
+657;MSH;HOSE;May Sông Hồng;226;3763;Hàng cá nhân & Gia dụng;Personal & Household Goods;2013;10496;511;0,053;http://www.songhong.vn;3;0,053;0,198;-0,035;75;75;CT
+660;SVD;HOSE;"Đầu tư &amp; Thương mại Vũ Đăng";226;3763;Hàng cá nhân & Gia dụng;Personal & Household Goods;2013;0;1167;0,004;http://www.vudang.vn;2,6;0,022;-0,184;-0,405;27,6;25,8;CT
+663;BKG;HOSE;Đầu tư BKG Việt Nam;228;3767;Hàng cá nhân & Gia dụng;Personal & Household Goods;2015;33;0;0,001;http://www.bkgvietnam.com;2,9;-0,089;-0,169;-0,33;68,2;62;CT
+665;BRC;HOSE;Cao su Bến Thành;150;1353;Hóa chất;Chemicals;1975;204;462;0,005;http://www.berubco.com.vn;3,5;0,008;0,006;-0,021;12,4;12,4;CT
+666;TSC;HOSE;Kỹ thuật NN Cần Thơ;151;1357;Hóa chất;Chemicals;1976;714;3181;0,002;http://www.tsccantho.com.vn;;0,007;-0,213;-0,425;196,9;196,9;CT
+667;SFG;HOSE;Phân bón Miền Nam;151;1357;Hóa chất;Chemicals;1976;681;765;0,007;http://www.phanbonmiennam.com.vn;2,4;-0,079;-0,207;-0,173;47,9;47,9;CT
+668;CSV;HOSE;Hóa chất Cơ bản miền Nam;151;1357;Hóa chất;Chemicals;1976;636;4356;0,04;http://www.sochemvn.com;3,2;-0,003;-0,203;-0,14;44,2;44,2;CT
+670;TPC;HOSE;Nhựa Tân Đại Hưng;150;1353;Hóa chất;Chemicals;1984;760;670;0,025;http://www.tandaihungplastic.com;2,9;0,073;-0,298;-0,065;22,5;24,4;CT
+671;TNC;HOSE;Cao su Thống Nhất;150;1353;Hóa chất;Chemicals;1991;0;0;0,006;http://trc.com.vn;2,9;0,033;0,133;1,388;19,3;19,3;CT
+672;VFG;HOSE;Khử trùng Việt Nam;151;1357;Hóa chất;Chemicals;1993;1216;687;0,026;http://www.vfc.com.vn;2,9;-0,032;0,089;0,661;41,7;41,7;CT
+676;DTT;HOSE;Kỹ nghệ Đô Thành;150;1353;Hóa chất;Chemicals;1994;214;834;0,002;http://www.dothanhtech.com;3,3;-0,011;-0,001;0,067;8,2;8,2;CT
+681;DAG;HOSE;TĐ Nhựa Đông Á;150;1353;Hóa chất;Chemicals;2001;244;6605;0,003;http://www.dag.com.vn;2;0,002;-0,224;-0,395;59,6;59,6;CT
+682;AAA;HOSE;An Phát Bioplastics;150;1353;Hóa chất;Chemicals;2002;2713;27697;0,025;https://anphatbioplastics.com;2,7;0;-0,113;-0,288;382,3;382,3;CT
+685;DPR;HOSE;Cao su Đồng Phú;150;1353;Hóa chất;Chemicals;2004;4157;3907;0,026;http://www.doruco.com.vn;3,5;-0,017;-0,097;-0,113;43;43;CT
+687;DGC;HOSE;Hóa chất Đức Giang;151;1357;Hóa chất;Chemicals;2004;2170;944;0,17;http://ducgiangchem.vn;3,7;-0,121;-0,261;0,076;379,8;379,8;CT
+688;DPM;HOSE;Đạm Phú Mỹ;151;1357;Hóa chất;Chemicals;2004;1529;15217;0,18;http://www.dpm.vn;3,8;-0,086;-0,167;0,143;391,3;391,4;CT
+690;HRC;HOSE;Cao su Hòa Bình;150;1353;Hóa chất;Chemicals;2004;608;681;0,006;http://www.horuco.com.vn;2,2;-0,016;0,078;0,472;30,2;30,2;CT
+691;RDP;HOSE;Nhựa Rạng Đông;150;1353;Hóa chất;Chemicals;2005;650;1196;0,003;https://rangdongholding.com.vn/;2,1;-0,051;-0,128;-0,243;49,1;49,1;CT
+694;HAI;HOSE;Nông Dược HAI;151;1357;Hóa chất;Chemicals;2005;187;8365;0,012;http://www.congtyhai.com;2,4;-0,016;0,078;-0,437;182,7;182,7;CT
+696;TRC;HOSE;Cao su Tây Ninh;150;1353;Hóa chất;Chemicals;2006;1784;735;0,007;http://www.taniruco.com;2,8;-0,105;-0,154;-0,102;29,1;30;CT
+698;VPS;HOSE;Thuốc sát trùng Việt Nam;151;1357;Hóa chất;Chemicals;2006;360;780;0,007;http://www.vipesco.com.vn;3,2;0,008;-0,119;-0,064;24,5;24,5;CT
+704;QBS;HOSE;Xuất nhập khẩu Quảng Bình;151;1357;Hóa chất;Chemicals;2007;49;1736;0;http://www.quangbinhjsc.com.vn;2,7;0,009;-0,241;-0,394;69,3;69,3;CT
+706;PHR;HOSE;Cao su Phước Hòa;150;1353;Hóa chất;Chemicals;2008;3126;2495;0,114;http://www.phr.vn;3,2;-0,042;-0,156;-0,13;135,5;135,5;CT
+707;NHH;HOSE;Nhựa Hà Nội;150;1353;Hóa chất;Chemicals;2008;1513;2799;0,006;http://www.hanoiplastics.com.vn;2,7;0,099;0,107;-0,292;72,9;72,9;CT
+709;PLP;HOSE;SX và CN Nhựa Pha Lê;150;1353;Hóa chất;Chemicals;2008;237;358;0,014;http://www.phaleminerals.com.vn;2,4;0;-0,269;-0,396;70;70;CT
+719;HII;HOSE;An Tiến Industries;150;1353;Hóa chất;Chemicals;2009;460;974;0,008;http://www.antienindustries.com;2,4;-0,062;-0,182;-0,405;73,7;73,7;CT
+720;VAF;HOSE;Phân lân Văn Điển;151;1357;Hóa chất;Chemicals;2009;362;0;0;https://vandienfmp.vn;3,1;-0,066;-0,21;0,002;37,7;37,7;CT
+727;GVR;HOSE;Tập đoàn CN Cao su VN;150;1353;Hóa chất;Chemicals;2010;217;0;0,005;http://www.vnrubbergroup.com;2,9;0,036;-0,19;-0,345;4000;4000;CT
+731;BFC;HOSE;Phân bón Bình Điền;151;1357;Hóa chất;Chemicals;2011;1234;1931;0,037;https://binhdien.com/;2,5;-0,028;-0,069;-0,246;57,2;57,2;CT
+732;DCM;HOSE;Đạm Cà Mau;151;1357;Hóa chất;Chemicals;2011;918;21094;0,11;http://www.pvcfc.com.vn;3,7;-0,096;-0,131;0,061;529,4;529,4;CT
+734;HCD;HOSE;SX và Thương mại HCD;150;1353;Hóa chất;Chemicals;2011;21;1050;0,001;http://www.hcdgroup.com.vn;3,1;-0,053;-0,152;-0,213;31,6;31,6;CT
+736;SJF;HOSE;Đầu tư Sao Thái Dương;151;1357;Hóa chất;Chemicals;2012;13;5138;0,006;http://www.stdgroup.vn;2,2;0,039;-0,307;-0,477;79,2;79,2;CT
+739;CTG;HOSE;VietinBank;289;8355;Ngân hàng;Banks;1988;22564;0;0,272;http://www.vietinbank.vn;2,7;0,031;0,174;0,128;4805,8;4805,8;NH
+740;STB;HOSE;Sacombank;289;8355;Ngân hàng;Banks;1991;18818;92620;0,228;http://www.sacombank.com.vn;2,8;0,081;0,02;-0,046;1885,2;1885,2;NH
+741;MSB;HOSE;MSB Bank;289;8355;Ngân hàng;Banks;1991;5190;36939;0,3;https://msb.com.vn/;2,9;0,024;0,108;-0,001;1985,8;1527,5;NH
+742;HDB;HOSE;HDBank;289;8355;Ngân hàng;Banks;1992;13992;6015;0,18;http://www.hdbank.com.vn;2,7;-0,002;-0,013;0,018;2515,3;2530,3;NH
+743;EIB;HOSE;Eximbank;289;8355;Ngân hàng;Banks;1992;6136;0;0,236;http://www.eximbank.com.vn;2,8;-0,212;-0,397;0,044;1229,4;1235,5;NH
+746;BID;HOSE;BIDV;289;8355;Ngân hàng;Banks;1993;25416;36773;0,17;http://www.bidv.com.vn;2,6;-0,017;0,178;0,385;5058,5;5058,5;NH
+747;VPB;HOSE;VPBank;289;8355;Ngân hàng;Banks;1993;25413;18747;0,176;http://www.vpbank.com.vn;2,5;-0,065;0,05;-0,014;6713,2;6743,4;NH
+748;ACB;HOSE;Ngân hàng Á Châu;289;8355;Ngân hàng;Banks;1993;11008;44011;0,3;http://www.acb.com.vn;3,2;0,001;0,088;0,137;3377,4;3377,4;NH
+749;TCB;HOSE;Techcombank;289;8355;Ngân hàng;Banks;1993;9757;1901;0,225;http://www.techcombank.com.vn;2,9;-0,02;-0,017;-0,222;3517,2;3510,9;NH
+753;MBB;HOSE;MBBank;289;8355;Ngân hàng;Banks;1994;15910;126621;0,232;http://www.mbbank.com.vn;3;-0,034;-0,025;0;4534;4534;NH
+756;VIB;HOSE;VIBBank;289;8355;Ngân hàng;Banks;1996;5372;1316;0,205;http://www.vib.com.vn;2,9;0,036;0,003;-0,009;2107,7;2107,7;NH
+757;OCB;HOSE;Ngân hàng Phương Đông;289;8355;Ngân hàng;Banks;1996;1879;0;0,215;https://www.ocb.com.vn/;2,8;0,063;0,149;-0,114;1369,9;1369,9;NH
+759;SHB;HOSE;SHB;289;8355;Ngân hàng;Banks;2006;7546;63268;0,052;http://www.shb.com.vn;2,9;-0,006;-0,044;-0,23;2666,9;2667,4;NH
+760;VCB;HOSE;Vietcombank;289;8355;Ngân hàng;Banks;2008;17215;26686;0,236;http://www.vietcombank.com.vn;3;-0,002;0,232;0,351;4732,5;4732,5;NH
+761;LPB;HOSE;LienViet Post Bank;289;8355;Ngân hàng;Banks;2008;8105;59906;0,05;http://www.lienvietpostbank.com.vn;2,9;0,059;0,124;-0,104;1729,1;1503,6;NH
+762;TPB;HOSE;Ngân hàng Tiên Phong;289;8355;Ngân hàng;Banks;2008;4985;15209;0,3;http://www.tpb.vn;3;0,02;0,078;-0,014;1581,8;1581,8;NH
+763;SSB;HOSE;SeABank;289;8355;Ngân hàng;Banks;2011;5320;3732;0,002;https://www.seabank.com.vn;2,5;-0,017;0,095;0,388;2040,3;1980,9;NH
+766;AGM;HOSE;XNK An Giang;218;3577;Thực phẩm và đồ uống;Food & Beverage;1976;207;333;0,019;http://www.angimex.com.vn;2,6;0,12;-0,214;-0,365;18,2;18,2;CT
+768;ABT;HOSE;Thủy sản Bến Tre;217;3573;Thực phẩm và đồ uống;Food & Beverage;1977;706;1032;0,017;http://www.aquatexbentre.com;3;-0,091;0,216;0,392;11,8;14,4;CT
+771;ACL;HOSE;Thủy sản CL An Giang;217;3573;Thực phẩm và đồ uống;Food & Beverage;1986;1074;0;0,032;http://www.clfish.com;2,8;-0,031;-0,191;-0,077;50,2;50,2;CT
+783;LAF;HOSE;Chế biến Hàng XK Long An;218;3577;Thực phẩm và đồ uống;Food & Beverage;1995;165;0;0,019;http://www.lafooco.vn;2,4;-0,012;0,044;0,074;14,7;14,7;CT
+788;ASM;HOSE;Tập đoàn Sao Mai;217;3573;Thực phẩm và đồ uống;Food & Beverage;1997;12036;20862;0,023;http://www.saomainews.vn;2,9;-0,054;-0,296;-0,212;336,5;336,5;CT
+791;BBC;HOSE;Bánh kẹo BIBICA;218;3577;Thực phẩm và đồ uống;Food & Beverage;1999;816;0;0,008;http://www.bibica.com.vn;2,5;0,002;0,008;0,135;18,8;18,8;CT
+794;LSS;HOSE;Mía đường Lam Sơn;218;3577;Thực phẩm và đồ uống;Food & Beverage;2000;2064;8120;0,011;http://www.lasuco.com.vn;2,5;0,061;-0,2;-0,33;70;70;CT
+801;KDC;HOSE;Tập đoàn KIDO;218;3577;Thực phẩm và đồ uống;Food & Beverage;2002;3857;0;0,26;http://www.kdc.vn;2,5;-0,058;0,025;0,367;257,2;279,7;CT
+803;AAM;HOSE;Thủy sản Mekong;217;3573;Thực phẩm và đồ uống;Food & Beverage;2002;159;0;0,01;http://www.mekongfish.vn;3,3;-0,001;-0,04;0,12;10,5;12,3;CT
+804;SSC;HOSE;Giống cây trồng Miền Nam;217;3573;Thực phẩm và đồ uống;Food & Beverage;2002;125;769;0,012;http://www.ssc.com.vn;3,1;-0,021;0,003;0,199;13,3;15;CT
+805;VNM;HOSE;VINAMILK;218;3577;Thực phẩm và đồ uống;Food & Beverage;2003;8082;0;0,557;http://www.vinamilk.com.vn;2,9;-0,033;0,117;0,255;2090;2090;CT
+806;FMC;HOSE;Thực phẩm Sao Ta;217;3573;Thực phẩm và đồ uống;Food & Beverage;2003;4647;2767;0,314;http://www.fimexvn.com;2,9;-0,132;-0,142;-0,064;65,4;65,4;CT
+809;SCD;HOSE;Giải khát Chương Dương;216;3537;Thực phẩm và đồ uống;Food & Beverage;2003;292;516;0,069;http://www.chuongduong.com.vn;2,5;-0,112;-0,209;0,026;8,5;8,5;CT
+810;IDI;HOSE;Đầu tư và PT Đa Quốc Gia;217;3573;Thực phẩm và đồ uống;Food & Beverage;2003;250;578;0,011;http://www.idiseafood.com;2,6;-0,055;-0,302;-0,099;227,6;227,6;CT
+814;MSN;HOSE;Tập đoàn Masan;218;3577;Thực phẩm và đồ uống;Food & Beverage;2004;34560;4726;0,298;https://www.masangroup.com;2,5;0,085;0,283;0,109;1423,7;1423,7;CT
+815;DBC;HOSE;Tập đoàn DABACO;217;3573;Thực phẩm và đồ uống;Food & Beverage;2004;5847;0;0,048;http://www.dabaco.com.vn;2,7;-0,024;-0,291;-0,287;242;242;CT
+816;NSC;HOSE;Tập đoàn Giống cây trồng Việt Nam;217;3573;Thực phẩm và đồ uống;Food & Beverage;2004;737;1199;0,085;http://www.vinaseed.com.vn;3;-0,024;0,002;0,272;17,6;17,6;CT
+823;VCF;HOSE;Vinacafé Biên Hòa;216;3537;Thực phẩm và đồ uống;Food & Beverage;2004;327;390;0,007;http://www.vinacafebienhoa.com;3;-0,076;-0,01;0,289;26,6;26,6;CT
+826;PAN;HOSE;Tập đoàn PAN;218;3577;Thực phẩm và đồ uống;Food & Beverage;2005;9304;21259;0,107;https://thepangroup.vn;2,8;-0,083;-0,213;-0,286;208,9;216,4;CT
+838;ANV;HOSE;Thủy sản Nam Việt;217;3573;Thực phẩm và đồ uống;Food & Beverage;2006;4634;0;0,039;http://www.navicorp.com.vn;2,9;-0,045;-0,395;-0,138;127,1;127,5;CT
+843;CMX;HOSE;CAMIMEX Group;217;3573;Thực phẩm và đồ uống;Food & Beverage;2006;921;9602;0,095;http://www.camimex.com.vn;2,5;0,079;-0,305;-0,293;101,9;101,9;CT
+854;HAG;HOSE;Hoàng Anh Gia Lai;217;3573;Thực phẩm và đồ uống;Food & Beverage;2006;117;54114;0,022;http://www.hagl.com.vn;2,3;0,044;-0,155;0,227;927,4;927,5;CT
+858;SBT;HOSE;Mía đường Thành Thành Công - Biên Hòa;218;3577;Thực phẩm và đồ uống;Food & Beverage;2007;4217;20235;0,114;http://www.ttcsugar.com.vn;2,7;-0,049;-0,09;-0,206;650,8;629,2;CT
+859;VHC;HOSE;Thủy sản Vĩnh Hoàn;217;3573;Thực phẩm và đồ uống;Food & Beverage;2007;3500;2487;0,303;https://vinhhoan.com;3;-0,116;-0,015;0,463;183,4;183,4;CT
+872;SAB;HOSE;SABECO;214;3533;Thực phẩm và đồ uống;Food & Beverage;2008;8234;4201;0,627;https://www.sabeco.com.vn;2,7;-0,061;0,046;0,417;641,3;641,3;CT
+873;BHN;HOSE;HABECO;214;3533;Thực phẩm và đồ uống;Food & Beverage;2008;724;1001;0,176;http://www.habeco.com.vn;2,5;-0,047;0,078;0,107;231,8;231,8;CT
+875;SMB;HOSE;Bia Sài Gòn - Miền Trung;214;3533;Thực phẩm và đồ uống;Food & Beverage;2008;495;2083;0,141;http://www.biasaigonmt.com;2,9;0,019;0,065;0,357;29,8;29,8;CT
+878;DAT;HOSE;ĐT Du lịch và PT Thủy sản;217;3573;Thực phẩm và đồ uống;Food & Beverage;2008;110;440;0;http://www.trisedco.com;2,3;-0,02;-0,06;-0,165;62,9;62,9;CT
+885;NAF;HOSE;Nafoods Group;216;3537;Thực phẩm và đồ uống;Food & Beverage;2010;636;4963;0,257;http://www.nafoodsgroup.com.vn;2,7;-0,023;-0,175;-0,371;62,9;50,6;CT
+889;HNG;HOSE;Nông nghiệp Quốc tế HAGL;217;3573;Thực phẩm và đồ uống;Food & Beverage;2010;30;33850;0,018;http://www.haagrico.com.vn;1,9;0,045;-0,018;-0,189;1108,6;1108,6;CT
+911;HSL;HOSE;Thực phẩm Hồng Hà;218;3577;Thực phẩm và đồ uống;Food & Beverage;2015;34;0;0,021;http://www.honghagroup.com.vn;3,2;0,007;-0,281;-0,246;35,4;35,4;CT
+914;BAF;HOSE;Nông nghiệp BAF Việt Nam;217;3573;Thực phẩm và đồ uống;Food & Beverage;2017;252;333;0,008;http://baf.vn;2,7;-0,103;-0,3;;143,5;143,5;CT
+920;PNC;HOSE;Văn hóa Phương Nam;256;5557;Truyền thông;Media;1999;779;0;0,008;http://www.pnc.com.vn;2,2;-0,099;-0,001;0,016;10,8;11;CT
+936;YEG;HOSE;Tập đoàn Yeah1;254;5553;Truyền thông;Media;2006;76;310;0,159;https://www.yeah1group.com;2,9;0,046;-0,415;-0,224;31,3;31,3;CT
+945;ADG;HOSE;Clever Group;255;5555;Truyền thông;Media;2008;166;761;0,457;https://clevergroup.vn;2,6;-0,049;-0,094;0,026;21,4;19,9;CT
+960;VID;HOSE;Viễn Đông;156;1737;Tài nguyên Cơ bản;Basic Resources;1974;32;3501;0,005;http://www.dautuviendong.vn;2,9;-0,149;-0,093;-0,11;40,8;40,8;CT
+964;TLH;HOSE;Thép Tiến Lên;159;1757;Tài nguyên Cơ bản;Basic Resources;1988;300;7761;0,012;http://www.tienlengroup.com.vn;2,6;0,059;-0,24;-0,404;102,1;102,1;CT
+965;KSB;HOSE;Khoáng sản Bình Dương;166;1775;Tài nguyên Cơ bản;Basic Resources;1993;329;6822;0,068;http://www.bimico.com.vn;2,7;-0,047;-0,219;-0,322;76,3;76,6;CT
+967;TNA;HOSE;XNK Thiên Nam;159;1757;Tài nguyên Cơ bản;Basic Resources;1994;145;2298;0,035;http://www.thiennamgroup.vn;2,1;-0,036;-0,239;-0,214;49,2;49,6;CT
+972;SHI;HOSE;SONHA CORP;159;1757;Tài nguyên Cơ bản;Basic Resources;1998;1991;5982;0,001;http://www.sonha.com.vn;2,5;-0,06;0,008;0,228;161,9;162,2;CT
+973;POM;HOSE;Thép Pomina;159;1757;Tài nguyên Cơ bản;Basic Resources;1999;2396;7279;0,079;http://www.pomina-steel.com;2,3;0,07;-0,079;-0,403;278,5;279,7;CT
+974;HAP;HOSE;Tập đoàn Hapaco;156;1737;Tài nguyên Cơ bản;Basic Resources;1999;620;8771;0,025;http://www.hapaco.vn;2,7;0,012;-0,106;-0,351;110,9;111,1;CT
+979;HPG;HOSE;Hòa Phát;159;1757;Tài nguyên Cơ bản;Basic Resources;2001;19828;0;0,19;http://www.hoaphat.com.vn;3,1;0,212;-0,137;-0,269;5814,8;5814,8;CT
+980;HSG;HOSE;Tập đoàn Hoa Sen;159;1757;Tài nguyên Cơ bản;Basic Resources;2001;7824;0;0,06;http://www.hoasengroup.vn;2,8;0,094;-0,282;-0,403;598,1;598,1;CT
+982;SAV;HOSE;Savimex;155;1733;Tài nguyên Cơ bản;Basic Resources;2001;1085;0;0,434;http://www.savimex.com.vn;3;-0,037;-0,066;-0,144;18;18,4;CT
+983;GTA;HOSE;Gỗ Thuận An;155;1733;Tài nguyên Cơ bản;Basic Resources;2001;762;1546;0,006;http://gothuanan.vn/;2,6;0,025;-0,091;0,028;9,8;10,4;CT
+984;DTL;HOSE;Đại Thiên Lộc;159;1757;Tài nguyên Cơ bản;Basic Resources;2001;311;310;0;http://daithienloc.com.vn/;2;0,172;0,165;0,01;60,6;61,4;CT
+985;BMC;HOSE;Khoáng sản Bình Định;166;1775;Tài nguyên Cơ bản;Basic Resources;2001;197;0;0,063;http://www.bimico.vn;2,8;-0,034;-0,253;-0,299;12,4;12,4;CT
+991;NKG;HOSE;Thép Nam Kim;159;1757;Tài nguyên Cơ bản;Basic Resources;2002;1730;0;0,109;http://www.namkimgroup.vn;2,9;0,061;-0,405;-0,414;263,3;263,3;CT
+993;TTF;HOSE;Gỗ Trường Thành;155;1733;Tài nguyên Cơ bản;Basic Resources;2003;4016;3958;0,008;http://www.truongthanh.com;1,9;0,043;-0,158;-0,299;411,2;393,5;CT
+994;DHC;HOSE;Đông Hải Bến Tre;156;1737;Tài nguyên Cơ bản;Basic Resources;2003;519;1004;0,317;http://www.dohacobentre.com.vn;3,2;-0,105;-0,255;-0,251;70;70;CT
+996;DHM;HOSE;Khoáng sản Dương Hiếu;166;1775;Tài nguyên Cơ bản;Basic Resources;2003;26;0;0,001;http://www.duonghieu.com.vn;2,6;-0,014;-0,013;0,076;31,4;31,4;CT
+998;SVT;HOSE;Công nghệ SG Viễn Đông;156;1737;Tài nguyên Cơ bản;Basic Resources;2003;9;1258;0,014;http://www.savitechco.vn;3,5;0,003;0,052;0,148;15,1;15,1;CT
+999;PTB;HOSE;Công ty Cổ phần Phú Tài;155;1733;Tài nguyên Cơ bản;Basic Resources;2004;5044;2448;0,167;http://www.phutai.com.vn;2,9;-0,023;-0,255;-0,162;68;68;CT
+1001;SMC;HOSE;Đầu tư Thương mại SMC;159;1757;Tài nguyên Cơ bản;Basic Resources;2004;986;0;0,203;http://www.smc.vn;2,6;0,037;-0,337;-0,438;73,6;73,7;CT
+1007;HMC;HOSE;Kim khí TP.HCM;159;1757;Tài nguyên Cơ bản;Basic Resources;2005;184;0;0,009;https://metalhcm.com.vn;2,7;-0,051;-0,201;-0,192;27,3;27,3;CT
+1011;ACG;HOSE;Gỗ An Cường;155;1733;Tài nguyên Cơ bản;Basic Resources;2006;2959;477;0,386;https://www.ancuong.com;2,5;-0,116;-0,312;-0,13;135,8;135,8;CT
+1016;TNT;HOSE;Tập đoàn TNT;166;1775;Tài nguyên Cơ bản;Basic Resources;2006;15;1660;0,001;http://tainguyen.vn;2,7;-0,012;-0,185;-0,464;51;51;CT
+1019;DLG;HOSE;Đức Long Gia Lai;155;1733;Tài nguyên Cơ bản;Basic Resources;2007;5750;3572;0,018;http://www.duclonggroup.com;2,1;0,045;-0,191;-0,438;299,3;299,3;CT
+1024;VCA;HOSE;Thép VICASA - VNSTEEL;159;1757;Tài nguyên Cơ bản;Basic Resources;2007;396;732;0,085;http://www.vicasasteel.com;3,1;-0,028;-0,189;-0,003;15,2;15,2;CT
+1034;VPG;HOSE;Đầu tư TMại XNK Việt Phát;166;1775;Tài nguyên Cơ bản;Basic Resources;2008;108;3927;0,005;http://www.vietphatjsc.com.vn;2,9;-0,145;-0,163;-0,342;80,2;80,2;CT
+1040;SHA;HOSE;Sơn Hà Sài Gòn;159;1757;Tài nguyên Cơ bản;Basic Resources;2009;297;0;0,009;http://www.sonhasg.com.vn;2,2;-0,067;-0,149;-0,203;33,4;33,4;CT
+1041;TNI;HOSE;Tập đoàn Thành Nam;159;1757;Tài nguyên Cơ bản;Basic Resources;2009;108;1329;0,003;http://www.thanhnamgroup.com.vn;2,7;0,043;-0,003;-0,305;52,5;52,5;CT
+1056;HHP;HOSE;Giấy Hoàng Hà Hải Phòng;156;1737;Tài nguyên Cơ bản;Basic Resources;2012;121;567;0,026;http://www.hhppaper.com;3,1;-0,008;0,067;-0,062;30,1;30,1;CT
+1065;YBM;HOSE;Khoáng sản CN Yên Bái;166;1775;Tài nguyên Cơ bản;Basic Resources;2015;175;0;0,002;http://www.ybm.com.vn;2,9;-0,038;-0,026;-0,06;14,3;14,3;CT
+1080;VSI;HOSE;Đầu tư và Xây dựng Cấp thoát nước;181;2357;Xây dựng và Vật liệu;Construction & Materials;1975;180;394;0,007;http://www.waseco.com.vn;3,3;-0,208;-0,283;0,09;13,2;13,2;CT
+1084;LM8;HOSE;LILAMA 18;181;2357;Xây dựng và Vật liệu;Construction & Materials;1977;2818;1127;0,018;http://www.lilama18.com.vn;2,8;-0,026;-0,086;-0,07;9,4;9,4;CT
+1088;HU3;HOSE;Xây dựng HUD3;181;2357;Xây dựng và Vật liệu;Construction & Materials;1978;95;374;0,047;http://www.hud3.com.vn;2,7;0,088;-0,033;-0,208;10;10;CT
+1094;MDG;HOSE;Xây dựng Miền Đông;180;2353;Xây dựng và Vật liệu;Construction & Materials;1986;76;0;0;http://miendong.com.vn/;3,3;0,042;-0,036;0,523;10,3;10,9;CT
+1095;VNE;HOSE;Xây dựng điện Việt Nam;181;2357;Xây dựng và Vật liệu;Construction & Materials;1988;177;0;0,059;http://www.vneco.vn;2;-0,021;0,061;0,077;81,9;90,4;CT
+1097;HU1;HOSE;Xây dựng HUD1;181;2357;Xây dựng và Vật liệu;Construction & Materials;1989;172;495;0,035;http://www.hud1.vn;2,3;0,043;-0,153;-0,19;10;10;CT
+1099;HVX;HOSE;Xi măng Vicem Hải Vân;180;2353;Xây dựng và Vật liệu;Construction & Materials;1990;505;917;0,008;http://www.haivancement.vn;2;-0,145;-0,157;-0,397;41,5;38,5;CT
+1101;C32;HOSE;CIC39;180;2353;Xây dựng và Vật liệu;Construction & Materials;1993;228;3378;0,044;http://www.cic39.vn;3,2;-0,142;-0,112;-0,146;15;15;CT
+1105;TCR;HOSE;Gốm sứ TAICERA;180;2353;Xây dựng và Vật liệu;Construction & Materials;1994;1075;3342;0,461;http://www.taicera.com;2,2;-0,059;-0,139;-0,268;45,4;10,4;CT
+1108;UDC;HOSE;Xây dựng và Phát triển đô thị Bà Rịa - Vũng Tàu;181;2357;Xây dựng và Vật liệu;Construction & Materials;1995;232;1201;0,124;http://www.udec.com.vn;2,1;0,039;-0,05;-0,091;34,7;35;CT
+1117;HBC;HOSE;Tập đoàn Xây dựng Hòa Bình;181;2357;Xây dựng và Vật liệu;Construction & Materials;2000;5040;19799;0,162;https://hbcg.vn;2;-0,027;-0,351;-0,333;274,1;267,8;CT
+1121;HTI;HOSE;PT Hạ tầng IDICO;181;2357;Xây dựng và Vật liệu;Construction & Materials;2000;210;828;0,223;http://www.idico-idi.com.vn;3,1;-0,016;0,078;0,199;24,9;24,9;CT
+1123;DHA;HOSE;Hóa An;180;2353;Xây dựng và Vật liệu;Construction & Materials;2000;119;2027;0,147;http://www.hoaan.com.vn;3;0,06;-0,065;-0,122;14,7;15,1;CT
+1124;UIC;HOSE;Phát triển Nhà và Đô thị IDICO;181;2357;Xây dựng và Vật liệu;Construction & Materials;2000;99;572;0,128;http://www.idico-udico.com.vn/welcome/vn;3;-0,043;-0,033;-0,018;8;8;CT
+1125;LGC;HOSE;Đầu tư Cầu đường CII;181;2357;Xây dựng và Vật liệu;Construction & Materials;2000;98;287;0,45;http://www.ciibr.com.vn;2,7;0,039;0,09;0,268;192,9;192,9;CT
+1129;PHC;HOSE;Phuc Hung Holdings;181;2357;Xây dựng và Vật liệu;Construction & Materials;2001;483;6867;0,013;http://www.phuchung.com.vn;2,2;-0,042;-0,081;-0,322;50,7;50,6;CT
+1130;LCG;HOSE;LIZEN;181;2357;Xây dựng và Vật liệu;Construction & Materials;2001;451;37697;0,024;http://lizen.vn/vi;2,8;0,003;-0,263;-0,337;189,6;191,6;CT
+1134;CII;HOSE;Hạ tầng Kỹ thuật TP.HCM;181;2357;Xây dựng và Vật liệu;Construction & Materials;2001;118;39257;0,074;http://www.cii.com.vn;2,4;-0,044;-0,217;-0,243;252,2;284;CT
+1140;HAS;HOSE;Hacisco;181;2357;Xây dựng và Vật liệu;Construction & Materials;2001;89;1529;0,167;https://has.vn/;2,8;0,196;0,025;0,056;7,8;8;CT
+1141;NAV;HOSE;Tấm lợp và gỗ Nam Việt;180;2353;Xây dựng và Vật liệu;Construction & Materials;2001;24;0;0,01;http://www.navifico.vn;3,1;0,131;0,042;-0,012;8;8;CT
+1147;DPG;HOSE;Tập đoàn Đạt Phương;181;2357;Xây dựng và Vật liệu;Construction & Materials;2002;517;5613;0,011;http://www.datphuong.com.vn;2,8;-0,034;-0,269;-0,424;63;63;CT
+1151;BCE;HOSE;XD và GT Bình Dương;181;2357;Xây dựng và Vật liệu;Construction & Materials;2002;135;1927;0,014;http://www.becamexbce.com.vn;2,5;-0,066;-0,137;-0,407;35;35;CT
+1155;BMP;HOSE;Nhựa Bình Minh;180;2353;Xây dựng và Vật liệu;Construction & Materials;2003;1203;0;0,857;http://www.binhminhplastic.com;3,1;0,013;0,039;0,286;81,9;81,9;CT
+1156;LBM;HOSE;Khoáng sản Lâm Đồng;180;2353;Xây dựng và Vật liệu;Construction & Materials;2003;751;885;0,133;http://lbm-vn.vn;3,5;0,081;0,118;0,461;20;20;CT
+1158;THG;HOSE;XD Tiền Giang;181;2357;Xây dựng và Vật liệu;Construction & Materials;2003;677;1351;0,007;http://www.ticco.com.vn;2,8;-0,021;-0,117;-0,189;20;20;CT
+1176;SC5;HOSE;Xây dựng Số 5;181;2357;Xây dựng và Vật liệu;Construction & Materials;2003;65;1323;0,041;http://www.sc5.vn;2,4;-0,064;0,061;0,141;15;15;CT
+1185;CTD;HOSE;Xây dựng Coteccons;181;2357;Xây dựng và Vật liệu;Construction & Materials;2004;2720;3260;0,487;http://www.coteccons.vn;2,3;-0,038;-0,32;-0,282;73,9;79,3;CT
+1188;FCN;HOSE;FECON CORP;181;2357;Xây dựng và Vật liệu;Construction & Materials;2004;1392;23990;0,324;http://www.fecon.com.vn;2,3;-0,014;-0,312;-0,246;157,4;157,4;CT
+1218;NHA;HOSE;PT Nhà và Đô thị Nam HN;181;2357;Xây dựng và Vật liệu;Construction & Materials;2004;29;0;0,005;http://www.namhanoi.com.vn;2;0,043;-0,319;-0,421;42,2;42,2;CT
+1219;PTC;HOSE;Đầu tư ICAPITAL;181;2357;Xây dựng và Vật liệu;Construction & Materials;2004;26;884;0,01;http://www.ptic.vn;2;-0,029;-0,321;-0,236;32,2;32,3;CT
+1223;PC1;HOSE;Tập đoàn PC1;181;2357;Xây dựng và Vật liệu;Construction & Materials;2005;1524;686;0,057;http://pc1group.vn;2,6;0,039;-0,303;-0,199;270,4;235,2;CT
+1231;C47;HOSE;Xây dựng 47;181;2357;Xây dựng và Vật liệu;Construction & Materials;2005;655;1702;0,001;http://www.xaydung47.vn;2,6;-0,023;-0,189;-0,287;32,5;27,5;CT
+1239;DC4;HOSE;Xây dựng DIC Holdings;181;2357;Xây dựng và Vật liệu;Construction & Materials;2005;312;603;0,001;http://www.diccons.vn;2,3;0,057;-0,141;-0,378;52,5;52,5;CT
+1246;CIG;HOSE;Xây dựng COMA 18;181;2357;Xây dựng và Vật liệu;Construction & Materials;2005;59;308;0;http://www.coma18.vn;2,2;0,004;-0,286;-0,378;31,5;31,5;CT
+1252;VCG;HOSE;VINACONEX;181;2357;Xây dựng và Vật liệu;Construction & Materials;2006;6845;7864;0,032;http://www.vinaconex.com.vn;2,3;0,003;-0,144;-0,324;485,9;485,9;CT
+1257;CVT;HOSE;CMC JSC;180;2353;Xây dựng và Vật liệu;Construction & Materials;2006;1125;1284;0,005;https://cmctiles.vn;2,6;-0,016;0,112;0,529;36,7;36,7;CT
+1263;GMH;HOSE;Minh Hưng Quảng Trị;180;2353;Xây dựng và Vật liệu;Construction & Materials;2006;405;173;0;http://minhhungqt.vn;3,5;-0,05;0,058;;16,5;16,5;CT
+1266;DXV;HOSE;Vật liệu Xây dựng Đà Nẵng;180;2353;Xây dựng và Vật liệu;Construction & Materials;2006;250;578;0,006;http://coxiva.com.vn/;2,5;-0,039;-0,085;-0,152;9,9;9,9;CT
+1281;NNC;HOSE;Đá Núi Nhỏ;180;2353;Xây dựng và Vật liệu;Construction & Materials;2006;58;0;0,075;http://www.nuinho.vn;2,2;0,017;-0,027;-0,137;21,9;21,9;CT
+1288;HT1;HOSE;VICEM Hà Tiên;180;2353;Xây dựng và Vật liệu;Construction & Materials;2007;2373;15835;0,02;https://www.hatien1.com.vn;2,4;-0,012;-0,157;-0,311;381,6;381,6;CT
+1294;CTI;HOSE;Cường Thuận IDICO;181;2357;Xây dựng và Vật liệu;Construction & Materials;2007;481;993;0,006;http://www.cuongthuan.vn;2,2;0,003;0,015;-0,134;54,8;63;CT
+1298;FCM;HOSE;Khoáng sản FECON;180;2353;Xây dựng và Vật liệu;Construction & Materials;2007;423;3204;0,031;http://www.feconmining.com.vn;2,5;-0,082;-0,22;-0,314;45,1;45,1;CT
+1311;HID;HOSE;Halcom Vietnam;181;2357;Xây dựng và Vật liệu;Construction & Materials;2007;120;5848;0,007;http://www.halcom.vn;2,6;0,006;-0,289;-0,447;76,8;76,8;CT
+1315;TCD;HOSE;ĐT Phát triển CN và Vận tải;181;2357;Xây dựng và Vật liệu;Construction & Materials;2007;88;4023;0,005;http://www.tracodi.com.vn;2,8;0,036;-0,391;-0,453;244,4;244,4;CT
+1324;ACC;HOSE;Đầu tư và XD Bình Dương ACC;180;2353;Xây dựng và Vật liệu;Construction & Materials;2008;253;2386;0,083;http://www.becamexacc.com.vn;2,7;-0,102;-0,199;0,427;105;105;CT
+1325;TTA;HOSE;XD và PT Trường Thành;181;2357;Xây dựng và Vật liệu;Construction & Materials;2008;138;8256;0,003;http://www.truongthanhgroup.com.vn;2,7;0,021;-0,145;-0,141;157,5;157,5;CT
+1328;CDC;HOSE;Chương Dương Corp;181;2357;Xây dựng và Vật liệu;Construction & Materials;2008;90;963;0,004;https://chuongduongcorp.vn;2,7;-0,007;0,046;0,352;22;22;CT
+1330;TTB;HOSE;Tập đoàn Tiến Bộ;180;2353;Xây dựng và Vật liệu;Construction & Materials;2008;69;335;0;http://www.tienbo.vn;2;0,033;-0,182;-0,41;101,5;101,5;CT
+1345;MCG;HOSE;Năng lượng và Bất động sản MCG;181;2357;Xây dựng và Vật liệu;Construction & Materials;2009;43;4853;0,002;http://www.mecojsc.vn;2;0,056;-0,336;-0,454;52,1;57,5;CT
+1350;EVG;HOSE;Tập đoàn Everland;181;2357;Xây dựng và Vật liệu;Construction & Materials;2009;20;1398;0,001;http://www.everland.vn;2,6;-0,091;-0,231;-0,375;215,2;215,2;CT
+1352;KPF;HOSE;Đầu tư Tài sản KOJI;180;2353;Xây dựng và Vật liệu;Construction & Materials;2009;5;846;0,031;http://www.kpf.com.vn;2,5;-0,055;0,066;-0,077;60,9;60,9;CT
+1353;CTR;HOSE;Công trình Viettel;181;2357;Xây dựng và Vật liệu;Construction & Materials;2010;9536;9288;0,098;http://www.congtrinhviettel.com.vn;2,8;-0,082;-0,245;-0,039;114,4;114,4;CT
+1354;VGC;HOSE;Tổng Công ty Viglacera;180;2353;Xây dựng và Vật liệu;Construction & Materials;2010;7629;4286;0,057;http://www.viglacera.com.vn;3,1;-0,032;-0,358;-0,039;448,4;448,4;CT
+1357;HHV;HOSE;Đầu tư Hạ tầng Giao thông Đèo Cả;181;2357;Xây dựng và Vật liệu;Construction & Materials;2010;987;366;0,021;https://hhv.com.vn;2,2;0,004;-0,177;-0,298;534,8;267,4;CT
+1367;HVH;HOSE;Đầu tư và Công nghệ HVC;181;2357;Xây dựng và Vật liệu;Construction & Materials;2010;102;0;0,006;http://www.hvcgroup.net;3,1;-0,048;-0,189;-0,352;36,9;36,9;CT
+1368;CRC;HOSE;Create Capital Việt Nam;180;2353;Xây dựng và Vật liệu;Construction & Materials;2010;80;3531;0,003;http://www.createcapital.vn;2,9;-0,058;0,041;-0,259;30;30;CT
+1374;HUB;HOSE;Xây lắp Huế;181;2357;Xây dựng và Vật liệu;Construction & Materials;2011;1622;998;0,021;http://www.xaylaphue.com.vn;3;-0,052;-0,293;-0,196;22,9;19,1;CT
+1382;TGG;HOSE;Louis Capital;181;2357;Xây dựng và Vật liệu;Construction & Materials;2012;5;0;0,001;https://louiscapital.vn;2,9;-0,053;-0,137;-0,558;27,3;27,3;CT
+1404;GAB;HOSE;Đầu tư Khai khoáng và Quản lý Tài sản FLC;180;2353;Xây dựng và Vật liệu;Construction & Materials;2016;45;305;0,003;https://flcgab.vn;2,3;-0,016;0,078;0,342;14,9;14,9;CT
+1414;SPM;HOSE;S.P.M CORP;238;4577;Y tế;Health Care;1988;196;203;0,019;http://www.spm.com.vn;2,7;-0,012;0,002;0,01;13,8;14;CT
+1418;TRA;HOSE;Traphaco;238;4577;Y tế;Health Care;1999;1434;0;0,459;http://www.traphaco.com.vn;2,9;-0,015;0,047;0,394;41,5;41,5;CT
+1420;IMP;HOSE;IMEXPHARM;238;4577;Y tế;Health Care;2001;1246;2503;0,498;http://www.imexpharm.com;2,6;0,112;0,006;0,066;66,7;66,7;CT
+1422;JVC;HOSE;Đầu tư và Phát triển Y tế Việt Nhật;235;4535;Y tế;Health Care;2001;180;3510;0,013;http://www.ytevietnhat.com.vn;2,2;0,015;-0,212;-0,317;112,5;112,5;CT
+1424;OPC;HOSE;Dược phẩm OPC;238;4577;Y tế;Health Care;2002;1029;981;0,008;http://www.opcpharma.com;2,9;-0,033;0,046;0,331;64,1;64,1;CT
+1431;VDP;HOSE;Dược phẩm VIDIPHA;238;4577;Y tế;Health Care;2003;426;506;0,004;http://www.vidipha.com.vn;3,3;0,054;0,227;0,421;16,8;16,8;CT
+1433;APC;HOSE;Chiếu xạ An Phú;237;4573;Y tế;Health Care;2003;215;1467;0,152;http://www.apic.com.vn;2,5;0,169;0,075;-0,15;19,9;20,1;CT
+1436;DHG;HOSE;Dược Hậu Giang;238;4577;Y tế;Health Care;2004;2678;3660;0,542;http://www.dhgpharma.com.vn;3;0,007;0,082;0,185;130,7;130,7;CT
+1437;DMC;HOSE;Dược phẩm DOMESCO;238;4577;Y tế;Health Care;2004;1109;0;0,551;http://www.domesco.com;2,7;-0,001;0,069;0,134;34,7;34,7;CT
+1438;DCL;HOSE;Dược phẩm Cửu Long;238;4577;Y tế;Health Care;2004;959;2216;0,013;http://dcl.com.vn;2,5;-0,007;0,082;-0,071;73;73;CT
+1440;DBT;HOSE;Dược phẩm Bến Tre;238;4577;Y tế;Health Care;2004;556;2153;0,028;http://www.bepharco.com;2,6;-0,016;-0,075;-0,062;14,2;14,2;CT
+1446;VMD;HOSE;Y Dược phẩm Vimedimex;238;4577;Y tế;Health Care;2006;1087;364;0,014;http://www.vietpharm.com.vn;2,6;0,015;-0,009;-0,176;15,4;15,4;CT
+1454;DBD;HOSE;Dược - TB Y tế Bình Định;238;4577;Y tế;Health Care;2010;1191;1841;0,075;http://www.bidiphar.com;2,8;-0,018;-0,003;0,25;74,8;74,9;CT
+1462;TNH;HOSE;Bệnh viện Quốc tế Thái Nguyên;234;4533;Y tế;Health Care;2012;748;3731;0,381;http://www.benhvienquoctethainguyen.com;2,6;-0,012;0,04;0,069;51,9;51,9;CT
+1467;HTL;HOSE;Ô tô Trường Long;211;3353;Ô tô và phụ tùng;Automobiles & Parts;1998;334;131;0,461;http://www.truonglong.com;3,6;-0,078;-0,18;-0,004;12;12;CT
+1468;HAX;HOSE;Ô tô Hàng Xanh;211;3353;Ô tô và phụ tùng;Automobiles & Parts;2000;718;2696;0,161;http://www.haxaco.com.vn;3,1;-0,053;-0,303;-0,06;56,9;56,9;CT
+1470;SVC;HOSE;SAVICO;211;3353;Ô tô và phụ tùng;Automobiles & Parts;2004;4824;952;0,019;http://www.savico.com.vn;3;-0,016;0,078;0,561;33,3;33,3;CT
+1472;DRC;HOSE;Cao su Đà Nẵng;213;3357;Ô tô và phụ tùng;Automobiles & Parts;2005;1734;14480;0,078;https://drc.com.vn/;2,8;-0,005;-0,216;-0,13;118,8;118,8;CT
+1474;CSM;HOSE;Cao su Miền Nam;213;3357;Ô tô và phụ tùng;Automobiles & Parts;2006;2144;5415;0,007;http://www.casumina.com;2;0,018;0,062;0,15;103,6;103,6;CT
+1475;SRC;HOSE;Cao su Sao Vàng;213;3357;Ô tô và phụ tùng;Automobiles & Parts;2006;842;2601;0,001;http://www.src.com.vn;2,7;-0,154;-0,051;0,064;28,1;28,1;CT
+1476;TMT;HOSE;Ô tô TMT;211;3353;Ô tô và phụ tùng;Automobiles & Parts;2006;678;1204;0,03;http://www.tmt-vietnam.com.vn;2,6;-0,017;-0,295;-0,18;36,9;37,3;CT
+1477;HHS;HOSE;Đầu tư DV Hoàng Huy;211;3353;Ô tô và phụ tùng;Automobiles & Parts;2008;34;22018;0,018;http://www.hoanghuyhhs.vn;2,7;0,01;-0,257;-0,333;321,4;321,4;CT
+1478;CTF;HOSE;City Auto;211;3353;Ô tô và phụ tùng;Automobiles & Parts;2009;316;491;0,001;http://www.cityford.com.vn;2,4;0,024;0,178;0,706;76;76;CT
+1481;SMA;HOSE;Thiết bị Phụ tùng Sài Gòn;274;7535;Điện, nước & xăng dầu khí đốt;Utilities;1974;21;337;0,001;http://www.saigonmachinco.vn;3,4;-0,023;0,061;-0,148;20,4;20,4;CT
+1484;GAS;HOSE;PV Gas;275;7573;Điện, nước & xăng dầu khí đốt;Utilities;1990;3800;10295;0,03;http://www.pvgas.com.vn;2,8;-0,012;0,103;0,343;1914;1914;CT
+1485;TDW;HOSE;Cấp nước Thủ Đức;277;7577;Điện, nước & xăng dầu khí đốt;Utilities;1991;412;0;0,027;http://www.capnuocthuduc.vn;3,3;-0,016;0,078;0,618;8,5;8,5;CT
+1492;TMP;HOSE;Thủy điện Thác Mơ;274;7535;Điện, nước & xăng dầu khí đốt;Utilities;1994;160;966;0,006;http://www.tmhpp.com.vn;3,4;-0,097;-0,022;0,366;70;70;CT
+1500;SFC;HOSE;Nhiên liệu Sài Gòn;275;7573;Điện, nước & xăng dầu khí đốt;Utilities;2000;231;0;0,008;http://www.sfc.com.vn;3,2;-0,096;-0,066;-0,028;11,2;11,3;CT
+1504;CCI;HOSE;CIDICO;275;7573;Điện, nước & xăng dầu khí đốt;Utilities;2002;93;411;0,024;http://www.cidico.com.vn;3,2;-0,108;-0,085;0,373;17,5;17,7;CT
+1509;DRL;HOSE;Thủy điện - Điện lực 3;274;7535;Điện, nước & xăng dầu khí đốt;Utilities;2003;34;1852;0,032;http://www.pc3hp.com.vn;3,2;0,036;0,059;0,376;9,5;9,5;CT
+1510;ASP;HOSE;Dầu khí An Pha;275;7573;Điện, nước & xăng dầu khí đốt;Utilities;2004;1520;4360;0,49;http://www.anphapetrol.com;2,2;0,017;-0,018;-0,281;37,3;37,3;CT
+1511;PGC;HOSE;Gas Petrolimex;275;7573;Điện, nước & xăng dầu khí đốt;Utilities;2004;1058;0;0,051;http://www.pgas.petrolimex.com.vn;2,5;-0,016;-0,032;-0,024;60,3;60,3;CT
+1514;SJD;HOSE;Thủy điện Cần Đơn;274;7535;Điện, nước & xăng dầu khí đốt;Utilities;2004;281;0;0,149;http://www.candon.com.vn;3,3;-0,068;-0,038;0,071;69;69;CT
+1515;VSH;HOSE;Thủy điện Vĩnh Sơn - Sông Hinh;274;7535;Điện, nước & xăng dầu khí đốt;Utilities;2004;215;3653;0,116;http://www.vshpc.evn.com.vn;3,1;-0,006;-0,14;0,29;236,2;236,2;CT
+1516;SII;HOSE;Hạ tầng Nước Sài Gòn;277;7577;Điện, nước & xăng dầu khí đốt;Utilities;2004;159;167;0,489;http://www.saigonwater.com.vn;2,2;0,023;0,049;0,128;64,5;64,5;CT
+1517;CHP;HOSE;Thủy điện Miền Trung;274;7535;Điện, nước & xăng dầu khí đốt;Utilities;2004;135;3896;0,039;http://www.chp.vn;3,1;-0,064;-0,045;0,447;146,9;146,9;CT
+1519;SHP;HOSE;Thủy điện Miền Nam;274;7535;Điện, nước & xăng dầu khí đốt;Utilities;2004;120;3173;0,052;http://www.shp.com.vn;3,3;-0,029;-0,006;0,469;101,2;101,2;CT
+1524;KHP;HOSE;Điện lực Khánh Hòa;274;7535;Điện, nước & xăng dầu khí đốt;Utilities;2005;1034;7667;0,02;https://pckhanhhoa.cpc.vn;2,4;-0,05;-0,156;-0,234;58,9;60,4;CT
+1532;TBC;HOSE;Thủy điện Thác Bà;274;7535;Điện, nước & xăng dầu khí đốt;Utilities;2005;158;1230;0,008;http://www.thacba.com.vn;3,3;-0,067;0,023;0,316;63,5;63,5;CT
+1534;TDG;HOSE;Đầu tư TDG Global;275;7573;Điện, nước & xăng dầu khí đốt;Utilities;2005;27;2765;0,003;http://www.thaiduongpetrol.vn;2,4;0,167;0,022;-0,308;16,8;16,8;CT
+1537;BWE;HOSE;Nước - Môi trường Bình Dương;277;7577;Điện, nước & xăng dầu khí đốt;Utilities;2006;1061;3997;0,178;http://www.biwase.com.vn;2,9;-0,066;-0,032;0,196;192,9;192,9;CT
+1538;PPC;HOSE;Nhiệt điện Phả Lại;274;7535;Điện, nước & xăng dầu khí đốt;Utilities;2006;803;9020;0,131;http://ppc.evn.vn;2,3;-0,003;-0,101;-0,116;320,6;326,2;CT
+1550;POW;HOSE;Điện lực Dầu khí Việt Nam;274;7535;Điện, nước & xăng dầu khí đốt;Utilities;2007;2125;44043;0,039;https://pvpower.vn;2,7;-0,063;-0,016;0,057;2341,9;2341,9;CT
+1554;CLW;HOSE;Cấp nước Chợ Lớn;277;7577;Điện, nước & xăng dầu khí đốt;Utilities;2007;455;446;0,049;http://www.capnuoccholon.com.vn;3;-0,016;0,078;0,475;13;13;CT
+1556;CNG;HOSE;CNG Việt Nam;275;7573;Điện, nước & xăng dầu khí đốt;Utilities;2007;271;0;0,06;https://www.cngvietnam.com/;2,9;-0,051;-0,228;-0,053;27;27;CT
+1557;PGD;HOSE;PV GAS D;275;7573;Điện, nước & xăng dầu khí đốt;Utilities;2007;267;1689;0,465;http://www.pvgasd.com.vn;2,9;0,023;0,046;0,159;90;90;CT
+1558;BTP;HOSE;Nhiệt điện Bà Rịa;274;7535;Điện, nước & xăng dầu khí đốt;Utilities;2007;261;1048;0,094;http://www.btp.com.vn;3,1;-0,008;0,016;0,22;60,5;60,5;CT
+1561;NT2;HOSE;Điện lực Nhơn Trạch 2;274;7535;Điện, nước & xăng dầu khí đốt;Utilities;2007;176;4264;0,154;https://www.pvpnt2.vn;3,3;-0,013;-0,076;0,363;287,9;287,9;CT
+1565;SBA;HOSE;Sông Ba JSC;274;7535;Điện, nước & xăng dầu khí đốt;Utilities;2007;95;6162;0,004;http://www.songba.vn;3,4;0,056;0,056;0,682;60,3;60,5;CT
+1567;S4A;HOSE;Thủy điện Sê San 4A;274;7535;Điện, nước & xăng dầu khí đốt;Utilities;2007;59;1071;0,001;http://www.sesan4a.com.vn;3;-0,021;0,081;0,592;42,2;42,2;CT
+1569;PMG;HOSE;ĐT và SX Petro Miền Trung;275;7573;Điện, nước & xăng dầu khí đốt;Utilities;2007;28;578;0,252;http://www.petrocenter.com.vn;2,4;-0,02;0,253;0,045;46,3;46,3;CT
+1590;GEG;HOSE;Điện Gia Lai;274;7535;Điện, nước & xăng dầu khí đốt;Utilities;2010;665;1956;0,352;http://www.geccom.vn;2,6;-0,006;-0,177;-0,107;321,9;321,9;CT
+1610;PGV;HOSE;Tổng Công ty Phát điện 3;274;7535;Điện, nước & xăng dầu khí đốt;Utilities;2012;2478;2009;0;http://www.genco3.com;2,6;-0,052;-0,127;-0,167;1123,5;1123,5;CT
+1611;PSH;HOSE;TMại ĐT Dầu khí Nam Sông Hậu;275;7573;Điện, nước & xăng dầu khí đốt;Utilities;2012;280;5222;0;http://www.nshpetro.vn;2;-0,075;-0,25;-0,46;126,2;126,2;CT
+1614;TDM;HOSE;Nước Thủ Dầu Một;277;7577;Điện, nước & xăng dầu khí đốt;Utilities;2013;22;352;0,073;http://www.tdmwater.vn;3;0,014;0,005;0,119;100;100;CT
+1615;TTE;HOSE;ĐT Năng lượng Trường Thịnh;274;7535;Điện, nước & xăng dầu khí đốt;Utilities;2014;44;251;0;https://dientruongthinh.vn;2,8;0,041;0,078;0,24;28,5;28,5;CT
+1619;VPD;HOSE;Phát triển Điện lực Việt Nam;274;7535;Điện, nước & xăng dầu khí đốt;Utilities;2015;128;6862;0,001;http://www.vnpd.com.vn;3;-0,064;-0,011;0,596;106,6;106,6;CT
